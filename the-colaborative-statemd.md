@@ -1,2 +1,0 @@
-# The collaborative state
-

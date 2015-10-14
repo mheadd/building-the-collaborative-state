@@ -2,8 +2,8 @@
 
 * [Introduction](README.md)
 * [The Collaborative State](the-collaborative-state.md)
-* [Civic Hacking](civic_hacking.md)
+* [Government operations](government_operations.md)
 * [Open Data](open_data.md)
 * [Procurement reform](procurement_reform.md)
-* [Government operations](government_operations.md)
+* [Civic Hacking](civic_hacking.md)
 

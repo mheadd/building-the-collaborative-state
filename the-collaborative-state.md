@@ -1,7 +1,5 @@
 # The Collaborative State
 
-> “Civic Hacking” is the awareness of a condition that is suboptimal in a neighborhood, community or place and the perception of one’s own ability to effect change on that condition. The apps are incidental.
-
 In 2008, civic hacking was the furthest thing from my mind.
 
 At the time, I was working for a small company in Southwestern Virginia that built payment and telephony systems for local governments. I had left state government behind 5 years prior – after working for almost a dozen years in two different states in both the legislative and executive branches – to become a full time technologist. My job enabled me to expand my knowledge of software development, VoIP and telephony systems design and made me feel connected to government.

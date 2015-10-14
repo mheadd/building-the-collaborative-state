@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [The Collaborative State](the-collaborative-state.md)
-* Civic Hacking
+* [Civic Hacking](civic_hacking.md)
 

@@ -4,6 +4,6 @@
 * [The Collaborative State](the-collaborative-state.md)
 * [Government Operations](government_operations.md)
 * [Open Data](open_data.md)
-* [Procurement reform](procurement_reform.md)
+* [Procurement Reform](procurement_reform.md)
 * [Civic Hacking](civic_hacking.md)
 

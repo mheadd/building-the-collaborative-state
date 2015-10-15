@@ -1,4 +1,4 @@
-# The Collaborative State
+# Building the Collaborative State
 
 In 2008, civic hacking was the furthest thing from my mind.
 

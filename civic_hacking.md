@@ -1,5 +1,5 @@
 # Civic Hacking
 
-> Citizens are connected like never before and have the skill sets and passion to solve problems affecting them locally as well as nationally. Government information and services can be provided to citizens where and when they need them. Citizens are empowered to spark the innovation that will result in an improved approach to governance. In this model, government is a convener and an enabler rather than the first mover of civic action.
+> What is needed right now is a new type of city: a city that is like the Internet in its openness, participation, distributed nature and rapid, organic evolution - a city that is not centrally operated, but that is created, operated and improved upon by all - a DIY City.
 
-> -- Tim O'Reilly, Open Government (2010)
+> -- John Geraci, DIYCity.org (2010)

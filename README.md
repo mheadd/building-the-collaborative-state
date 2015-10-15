@@ -16,12 +16,7 @@ But more often than not, faith in this belief is missing a fuller understanding 
 
 But looking beyond the mechanics of specific government processes, there are other factors - baked into the DNA of our democracy - that can make the efficient adoption of technology by governments more challenging.
 
-## Government is slow
-
-* decentralize power
-* many of the things we value as strengthening democracy can make action slower - inclusiveness, transparency 
-
-## Government is complex
+## Government often seems complex
 
 In the world of technology, complexity is often a function if a lack of uniformity. 
 
@@ -29,6 +24,11 @@ The [responsibility for specific government functions](https://www.whitehouse.go
 
 * Federal system
 * Number of governments
+
+## Government can be slow
+
+* decentralize power
+* many of the things we value as strengthening democracy can make action slower - inclusiveness, transparency 
 
 The unifying characteristic of these factors is that they were deliberately set up this way - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that in many ways these characteristics of our democracy can be viewed as virtuous and beneficial.
 

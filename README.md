@@ -6,13 +6,13 @@
 
 This is a book about government and how we use new technologies and data to support the core functions of government.
 
-Questions about how governments can most effectively and most efficiently use technology are not new, but they have become increasingly important since the early 1990's with the advent of the World Wide Web and the ensuing explosion in networked devices.
+Questions about how governments can most effectively and most efficiently use technology are not new, but they have become increasingly important since the early 1990's with the advent of the World Wide Web and the ensuing explosion in networked devices and new innovations.
 
-I began my very first job in government in 1993, the same year that the Mosaic web browser was released to the public. My experience working in 3 different state and local governments over the last 20 years has closely tracked some important developments in the world of government technology - the introduction of the web and Internet technologies in government; the rise e-Government and the creation of centralized government *web portals*, the rise of open data and the growth in government app contests and civic hacking.
+I began my very first job in government in 1993, the same year that the Mosaic web browser was released to the public. My experience working in 3 different state and local governments over the last 20 years has closely tracked some important developments in the world of government technology - the introduction of the web and Internet technologies in government; the rise of e-Government and the creation of centralized government web portals, the adoption of open data and the growth in government app contests and civic hacking.
 
-Over all that time, governments have cemented a reputation as being inept when it comes to adopting new technologies and using them effectively. This ineptitude is taken as an article of faith in the world of civic technology and among those who would reform the ways that public sector acquires and uses technology.
+Over all that time, governments have cemented a reputation as generally being inept when it comes to adopting new technologies and using them effectively. This ineptitude is taken as an article of faith in the world of civic technology and among those who would reform the ways that the public sector acquires and uses technology.
 
-But more often than not, faith in this belief is missing a fuller understanding for the reasons why governments face challenges in adopting new technologies. As I argue in Section 1, there are some very specific and easily identifiable processes that hinder the efficient adoption of technology by governments. These processes were constructed deliberately, to work in a specific way, often as a means of correcting other perceived issues. Understanding why these processes were constructed the way that they were is key to understanding how governments might improve their use of technology.
+But more often than not, this faith is absent a fuller understanding for some of the reasons why governments face challenges in adopting new technologies. As I argue in Section 1, there are some very specific and easily identifiable processes that hinder the efficient adoption of technology by governments. These processes were constructed deliberately, to work in a specific way, often as a means of correcting other perceived issues. Understanding why these processes were constructed the way that they were is key to understanding how governments might improve their use of technology.
 
 But looking beyond the mechanics of specific government processes, there are other factors - baked into the DNA of our democracy - that can make the efficient adoption of technology by governments more challenging.
 
@@ -30,11 +30,15 @@ Differences in how common functions are carried out by various local governments
 
 Probably the most fundamental aspect of our democracy is the separation of powers into coequal branches of government - an organizational approach that purposefully sacrifices efficiency and speed to guard against the potential danger of concentrated authority.
 
-Even beyond this foundational  aspect of our democracy, the mechanics of government can move slowly. The primary mechanism for acquiring technology assets - the procurement process can be a months or even years long process. The budget process - which allocates funds for every kind of technology solution or asset - revolves on an annual (and sometimes biennial) cycle. 
+Even beyond this foundational  aspect of our democracy, the mechanics of government can move slowly. The primary mechanism for acquiring technology assets - the procurement process can be a months or even years long process. The budget process - which allocates funds for every kind of technology solution or asset - revolves on an annual (and sometimes biennial) cycle.
+
+A healthy democracy places an emphasis on values like transparency ad inclusiveness, but putting these values into practice often means that the decision making process moves more slowly and consensus is harder to achieve. 
 
 In the digital age, these factors can work against the efficient adoption of technology by governments. The pace of change in the world of technology has shrunk from years to months to weeks.
 
-The unifying characteristic of the pace of government activity and its organizational complexity is that they are deliberate. The seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
+## Another way
+
+The unifying characteristic of these factors is that they are deliberat - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
 
 The challenge we face as advocates of reform to the way that governments acquire, manage and use technology assets is in how we strike the balance between these fundamental concepts in our democracy and the need to operate differently. Do we concentrate decision making and power? Do we mandate a specific set of procedural steps for local governments to carry out when providing core services. Do we relax requirements to be inclusive and transparent? What are we willing to sacrifice to get better results.
 

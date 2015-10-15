@@ -16,16 +16,17 @@ But more often than not, faith in this belief is missing a fuller understanding 
 
 But looking beyond the mechanics of specific government processes, there are other factors - baked into the DNA of our democracy - that can make the efficient adoption of technology by governments more challenging.
 
-## Government often seems complex
+## Government is complex
 
-In the world of technology, complexity is often a function if a lack of uniformity. 
+The [responsibility for specific government functions](https://www.whitehouse.gov/1600/state-and-local-government) in our federalist system is divided between federal, state and local governments. State and local governments - numbering at [more than 90,000](http://www.census.gov/govs/cog/) in 2012 - carry out some of the most critical functions in our democracy: providing law enforcement, administering elections, creating rules that govern how land can be used and overseeing health care for families and children.
 
-The [responsibility for specific government functions](https://www.whitehouse.gov/1600/state-and-local-government) in our federalist system is divided between federal, state and local governments. 
+The large number of sub-national governments in our country is generally [viewed as a benefit](https://en.wikipedia.org/wiki/Laboratories_of_democracy), but it may actually create issues which complicate the efficient adoption of technology. 
 
-* Federal system
-* Number of governments
+Municipal codes have been described as [the operating system](http://www.codeforamerica.org/blog/2014/07/17/introducing-zoningcheck/) of local governments. In the world of technology, complexity and risk is often a function of a lack of uniformity - different operating systems, different browser versions, a different set of installed dependencies are all important considerations. Accounting for these differences in software increases risk, complexity and cost.
 
-## Government can be slow
+Differences in how common functions are carried out by various local governments can make sharing  technology solutions more difficult. Commercial software that is engineered to  
+
+## Government moves too slowly
 
 * decentralize power
 * many of the things we value as strengthening democracy can make action slower - inclusiveness, transparency 

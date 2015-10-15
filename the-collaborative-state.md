@@ -6,9 +6,9 @@ At the time, I was working for a small company in Southwestern Virginia that bui
 
 I felt like I was still working to help governments use technology more efficiently – which was [the focus](http://voiceingov.org/about/) of the last several years of my public service – because my company was building tools that were used by governments. In reality, I was probably more unsatisfied with my current connection with government than I had realized.
 
-In the Fall of that year I came across an announcement about a contest that was taking place in the District of Columbia that seemed quite extraordinary to me. The DC government had published dozens of data sets to a public website in highly usable formats and was inviting outside software developers to do interesting things with this data. Winners would be chosen and given cash rewards, along with a chance to be singled out by the Mayor at a public ceremony.
+In the Fall of that year I came across [an announcement about a contest](http://istrategylabs.com/work/apps-for-democracy-contest/) that was taking place in the District of Columbia that seemed quite extraordinary to me. The DC government had published dozens of data sets to a public website in highly usable formats and was inviting outside software developers to do interesting things with this data. Winners would be chosen and given cash rewards, along with a chance to be singled out by the Mayor at a public ceremony.
 
-I instantly knew that I wanted to participate – even though I neither lived nor worked in DC. I entered the contest, submitted my application, won the silver medal in the *independent developer* category and got a $1,000 check for my efforts.
+I instantly knew that I wanted to participate – even though I neither lived nor worked in DC. I entered the contest, [submitted my application](https://github.com/mheadd/dc-crime-locater/tree/master/dc), won the silver medal in the *independent developer* category and got a $1,000 check for my efforts.
 
 For this, and many other reasons, I have been bullish on civic hacking ever since.
 
@@ -18,9 +18,9 @@ For this, and many other reasons, I have been bullish on civic hacking ever sinc
 
 > -- Anthony Townsend, [Smart Cities](http://www.smartcitiesbook.com/)
 
-After the initial wave of government app contest spurred by the Apps for Democracy contest in DC, the world of civic hacking went grassroots, with community sponsored events popping up all over the country. The last several years have seen the creation and spectacular growth of the Code for America Brigade, which has helped to create civic hacking groups in dozens of cities in the U.S. and other countries.
+After the initial wave of government app contest spurred by the Apps for Democracy contest in DC, the world of civic hacking [went grassroots](http://govfresh.com/2011/12/philadelphia-open-government-2011-year-in-review/), with community sponsored events popping up all over the country. The last several years have seen the creation and spectacular growth of the [Code for America Brigade](http://www.codeforamerica.org/brigade/) which has helped to create civic hacking groups in dozens of cities in the U.S. and other countries.
 
-Today, a great deal of civic hacking occurs outside of app contests, or even hackathons themselves. It is a regular activity that occurs each week or month in Code for America Brigades and other groups. A great example that I like to point to is the Detroit Water Project, which came together when the co-creators connected via Twitter. The project didn’t require a hackathon or similar event, or even a physical meeting between the creators to get started.
+Today, a great deal of civic hacking occurs outside of app contests, or even hackathons themselves. It is a regular activity that occurs each week or month in Code for America Brigades and other groups. A great example that I like to point to is the [Detroit Water Project](https://www.detroitwaterproject.org/), which came together when the co-creators connected via Twitter. The project didn’t require a hackathon or similar event, or even a physical meeting between the creators to get started.
 
 App contests and the early wave of organized civic hacking events has helped spur the development of a large (and growing) community that can now come together and interact more fluidly. The solutions being developed by these groups are increasingly potent and I think are appropriately viewed as part of the answer to the problems governments face in using technology to do their jobs.
 
@@ -29,8 +29,8 @@ App contests and the early wave of organized civic hacking events has helped spu
 Of the many different policy options put forward in the last few years aimed at improving the way governments implement technology, I think there are three primary themes we can identify:
 
 * Reform the government procurement process (as it relates to IT acquisitions).
-* Build up the internal capacity of government to better manage IT projects (particularly large scale projects).
-* Deploy APIs and release open data to create a platform on which third parties may develop new applications and services (“government as a platform”).
+* Build up the [internal capacity of government](https://www.gov.uk/service-manual/the-team/index.html) to better manage IT projects (particularly large scale projects).
+* Deploy APIs and release open data to create [a platform](https://www.youtube.com/watch?v=dYB8xokkWjg) on which third parties may develop new applications and services (“government as a platform”).
 
 To solve the overarching problem, I think each of these three approaches are needed to some degree – a balance between them must be struck so that they act like the metaphorical “three-legged stool.” Of these three remedies, the one that requires the most radical perceived departure from the way that governments currently operate is the third – turning government into a platform.
 

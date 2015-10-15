@@ -28,7 +28,7 @@ App contests and the early wave of organized civic hacking events has helped spu
 
 Of the many different policy options put forward in the last few years aimed at improving the way governments implement technology, I think there are three primary themes we can identify:
 
-* Reform the government procurement process (as it relates to IT acquisitions).
+* Reform the [government procurement process](three-hard-truths-for-government-procurement-reform.md) (as it relates to IT acquisitions).
 * Build up the [internal capacity of government](https://www.gov.uk/service-manual/the-team/index.html) to better manage IT projects (particularly large scale projects).
 * Deploy APIs and release open data to create [a platform](https://www.youtube.com/watch?v=dYB8xokkWjg) on which third parties may develop new applications and services (“government as a platform”).
 

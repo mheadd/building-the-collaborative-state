@@ -22,23 +22,23 @@ The [responsibility for specific government functions](https://www.whitehouse.go
 
 The large number of sub-national governments in our country is generally [viewed as a benefit](https://en.wikipedia.org/wiki/Laboratories_of_democracy), but it may actually create issues which complicate the efficient adoption of technology. 
 
-Municipal codes have been described as [the operating system](http://www.codeforamerica.org/blog/2014/07/17/introducing-zoningcheck/) of local governments. In the world of technology, complexity and risk is often a function of a lack of uniformity - different operating systems, different browser versions, a different set of installed dependencies - all important considerations. Accounting for these differences in software increases risk, complexity and cost.
+Municipal codes have been described as [the operating system](http://www.codeforamerica.org/blog/2014/07/17/introducing-zoningcheck/) of local governments. In the world of technology, complexity and risk is often a function of a lack of uniformity - different operating systems, different browser versions, a different set of installed dependencies. These are all important considerations. Accounting for these differences in software increases risk, complexity and cost.
 
-Differences in how common functions are carried out by various local governments can make sharing  technology solutions more difficult. Commercial software that is engineered to be used by multiple governments is inherently more complex and costly because it must accommodate different business process for carrying out the same function.
+Differences in how common functions are carried out by various state and local governments can make sharing  technology solutions more difficult. Commercial software that is engineered to be used by multiple governments is inherently more complex and costly because it must accommodate different business process for carrying out the same function.
 
 ## Government moves slowly
 
 Probably the most fundamental aspect of our democracy is the separation of powers into coequal branches of government - an organizational approach that purposefully sacrifices efficiency and speed to guard against the potential danger of concentrated authority.
 
-Even beyond this foundational  aspect of our democracy, the mechanics of government can move slowly. The primary mechanism for acquiring technology assets - the procurement process can be a months or even years long process. The budget process - which allocates funds for every kind of technology solution or asset - revolves on an annual (and sometimes biennial) cycle.
+Even beyond this foundational  aspect of our democracy, the mechanics of government can move slowly. The primary mechanism for acquiring technology assets - the government procurement process - can be a months or even years long process. The budget process - which allocates funds for every kind of technology solution or asset - revolves on an annual (and sometimes biennial) cycle.
 
 A healthy democracy places an emphasis on values like transparency ad inclusiveness, but putting these values into practice often means that the decision making process moves more slowly and consensus is harder to achieve. 
 
 In the digital age, these factors can work against the efficient adoption of technology by governments. The pace of change in the world of technology has shrunk from years to months to weeks.
 
-## Another way
+## There is another way
 
-The unifying characteristic of these factors is that they are deliberat - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
+The unifying characteristic of these factors is that they are deliberate - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
 
 The challenge we face as advocates of reform to the way that governments acquire, manage and use technology assets is in how we strike the balance between these fundamental concepts in our democracy and the need to operate differently. Do we concentrate decision making and power? Do we mandate a specific set of procedural steps for local governments to carry out when providing core services. Do we relax requirements to be inclusive and transparent? What are we willing to sacrifice to get better results.
 

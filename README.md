@@ -1,6 +1,6 @@
 # The Need for a Collaborative State
 
-> The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite. The former will be exercised principally on external objects, as war, peace, negotiation, and foreign commerce; with which last the power of taxation will, for the most part, be connected. The powers reserved to the several States will extend to all the objects which, in the ordinary course of affairs, concern the lives, liberties, and properties of the people, and the internal order, improvement, and prosperity of the State.
+> The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite ... The powers reserved to the several States will extend to all the objects which, in the ordinary course of affairs, concern the lives, liberties, and properties of the people, and the internal order, improvement, and prosperity of the State.
 
 > --  James Madison, The Federalist Papers - [Federalist No. 45](http://thomas.loc.gov/home/histdox/fed_45.html)
 
@@ -18,24 +18,25 @@ But looking beyond the mechanics of specific government processes, there are oth
 
 ## Government is complex
 
-The [responsibility for specific government functions](https://www.whitehouse.gov/1600/state-and-local-government) in our federalist system is divided between federal, state and local governments. State and local governments - numbering at [more than 90,000](http://www.census.gov/govs/cog/) in 2012 - carry out some of the most critical functions in our democracy: providing law enforcement, administering elections, creating rules that govern how land can be used and overseeing health care for families and children.
+The [responsibility for specific government functions](https://www.whitehouse.gov/1600/state-and-local-government) in our federalist system is divided between federal, state and local governments. State and local governments - numbering at [more than 90,000](http://www.census.gov/govs/cog/) in 2012 - carry out some of the most critical functions in our democracy: law enforcement, administering elections, creating rules that govern how land can be used and overseeing health care for families and children.
 
 The large number of sub-national governments in our country is generally [viewed as a benefit](https://en.wikipedia.org/wiki/Laboratories_of_democracy), but it may actually create issues which complicate the efficient adoption of technology. 
 
-Municipal codes have been described as [the operating system](http://www.codeforamerica.org/blog/2014/07/17/introducing-zoningcheck/) of local governments. In the world of technology, complexity and risk is often a function of a lack of uniformity - different operating systems, different browser versions, a different set of installed dependencies are all important considerations. Accounting for these differences in software increases risk, complexity and cost.
+Municipal codes have been described as [the operating system](http://www.codeforamerica.org/blog/2014/07/17/introducing-zoningcheck/) of local governments. In the world of technology, complexity and risk is often a function of a lack of uniformity - different operating systems, different browser versions, a different set of installed dependencies - all important considerations. Accounting for these differences in software increases risk, complexity and cost.
 
-Differences in how common functions are carried out by various local governments can make sharing  technology solutions more difficult. Commercial software that is engineered to  
+Differences in how common functions are carried out by various local governments can make sharing  technology solutions more difficult. Commercial software that is engineered to be used by multiple governments is inherently more complex and costly because it must accommodate different business process for carrying out the same function.
 
-## Government moves too slowly
+## Government moves slowly
 
-* decentralize power
-* many of the things we value as strengthening democracy can make action slower - inclusiveness, transparency 
+Probably the most fundamental aspect of our democracy is the separation of powers into coequal branches of government - an organizational approach that purposefully sacrifices efficiency and speed to guard against the potential danger of concentrated authority.
 
-The unifying characteristic of these factors is that they were deliberately set up this way - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that in many ways these characteristics of our democracy can be viewed as virtuous and beneficial.
+Even beyond this foundational  aspect of our democracy, the mechanics of government can move slowly. The primary mechanism for acquiring technology assets - the procurement process can be a months or even years long process. The budget process - which allocates funds for every kind of technology solution or asset - revolves on an annual (and sometimes biennial) cycle. 
 
-In the modern world, however, these fundamental characteristics can work against the efficient adoption of technology. The pace of change in the world of technology has reduced from years to months to weeks.
+In the digital age, these factors can work against the efficient adoption of technology by governments. The pace of change in the world of technology has shrunk from years to months to weeks.
 
-The challenge we face a advocates of reform to the way that governments acquire, manage and use technology assets is in how we strike the balance between these fundamental concepts in our democracy and the need to operate differently. Do we concentrate decision making and power? Do we relax requirements to be inclusive and transparent? What are we willing to sacrifice to get better results.
+The unifying characteristic of the pace of government activity and its organizational complexity is that they are deliberate. The seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
+
+The challenge we face as advocates of reform to the way that governments acquire, manage and use technology assets is in how we strike the balance between these fundamental concepts in our democracy and the need to operate differently. Do we concentrate decision making and power? Do we mandate a specific set of procedural steps for local governments to carry out when providing core services. Do we relax requirements to be inclusive and transparent? What are we willing to sacrifice to get better results.
 
 I argue in this book that there is another way.
 

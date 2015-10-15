@@ -1,4 +1,4 @@
-# Summary
+# Table of Contents
 
 * Introduction: [The Need for a Collaborative State](README.md)
 * Section 1:    [Government Operations](government_operations.md)

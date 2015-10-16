@@ -38,14 +38,16 @@ The pace of change in the world of technology has shrunk from years to months to
 
 ## There is another way
 
-The unifying characteristic of these factors is that they are deliberate - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
+The unifying characteristic of these factors is that they are intentional - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
 
 The challenge we face as advocates of reform to the way that governments acquire, manage and use technology assets is in how we strike the balance between these fundamental concepts in our democracy and the need to operate differently. Do we concentrate decision making and power? Do we mandate a specific set of procedural steps for local governments to carry out when providing core services. Do we relax requirements to be inclusive and transparent? What are we willing to sacrifice to get better results.
 
 I argue in this book that there is another way.
 
-We are in the midst of a sea change in how governments operate and deliver services. We are seeing new partnerships forged between governments and outside actors who are able to innovate in ways that governments often find difficult. These partnerships are creating new opportunities for governments to leverage technology and better serve their citizens. We're still in the very early stages of this change, but the potential benefit for both governments and citizens is immense.
+We are in the midst of a sea change in how governments operate and deliver services. We are seeing new partnerships forged between governments and outside actors who are able to innovate in ways that governments often find difficult. 
 
-In the 21st Century and beyond, for governments to more effectively utilize technology to fulfill their mission, we need to construct a new state - a collaborative state.
+These partnerships are creating new opportunities for governments to leverage technology and better serve their citizens. In [Section 3](open_data.md) of this book, we explore the rise of open data and what it means for how governments utilize technology and create new partnerships with external innovators. In [Section 4](civic_hacking.md), we turn to the phenomenon of civic hacking, which is built on open data and promises to reshape the way that governments deliver services.
+
+We're still in the very early stages of this change, but the potential benefit for both governments and citizens is immense. In the 21st Century and beyond, for governments to more effectively utilize technology to fulfill their mission, we need to construct a new state - a collaborative state.
 
 

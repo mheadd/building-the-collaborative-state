@@ -4,7 +4,7 @@
 
 > --  James Madison, The Federalist Papers - [Federalist No. 45](http://thomas.loc.gov/home/histdox/fed_45.html)
 
-This is a book about government and how we use new technologies and data to support the core functions of government.
+This is a book about government and how we use new technologies and data to support the core functions of government. It contains a series of essays written originally as blog posts starting in early 2012 until the Fall of 2015.
 
 Questions about how government can most effectively and most efficiently use technology are not new, but they have become increasingly important since the early 1990's with the advent of the World Wide Web and the ensuing explosion in networked devices and new innovations.
 

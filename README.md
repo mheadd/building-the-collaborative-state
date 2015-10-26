@@ -36,9 +36,19 @@ A healthy democracy places an emphasis on values like transparency ad inclusiven
 
 The pace of change in the world of technology has shrunk from years to months to weeks. In the digital age, factors that are viewed as assets in a democracy may work against the efficient adoption of technology by governments.
 
-## There is another way
+## An historical perspective
 
 The unifying characteristic of these factors is that they are intentional - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
+
+For most of our history as a democracy, these factors did not present the outsized challenge they do today. In a world where change occurs rapidly and disruptive change is common, however, these factors can become an impediment. 
+
+Thinks of it this way - as we continue to expand our understanding of [the dangers of consuming certain kinds of foods](http://www.bbc.com/news/health-34615621), we come to better appreciate some of the implications of increased life expectancy. Eating red meat probably causes cancer, but people have been eating red meat for a very long time - the focus on the consequences of doing so seems like only a very recent development. 
+
+It's not that the risks of consuming red meat have materialized just in recent times, but that people are living dramatically longer than they were previously. In 1900, the average life expectancy of a female living in the United State was about 48 years; by the end of the 20th century this average had increased to about 80 years. Its not that eating red meat 100 years ago (or earlier) was any worse for us, but that the consequence for doing so becomes more acute when the damage accumulates over a longer lifetime.
+
+Eating red meat has always been bad for us - it just matters more in a time when people live into their 80's. Governments have always been labyrinthic and slow - it just matters more in a world where technology changes rapidly.
+
+## There is another way
 
 The challenge we face as advocates of reform to the way that governments acquire, manage and use technology assets is in how we strike the balance between these fundamental concepts in our democracy and the need to operate differently. Do we concentrate decision making and power? Do we mandate a specific set of procedural steps for local governments to carry out when providing core services. Do we relax requirements to be inclusive and transparent? What are we willing to sacrifice to get better results.
 

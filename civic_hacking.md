@@ -1,5 +1,5 @@
 # Civic Hacking
 
-> What is needed right now is a new type of city: a city that is like the Internet in its openness, participation, distributed nature and rapid, organic evolution - a city that is not centrally operated, but that is created, operated and improved upon by all - a DIY City.
+> How does government become an open platform that allows people inside and outside government to innovate? How do you design a system in which all of the outcomes aren’t specified beforehand, but instead evolve through interactions between government and its citizens, as a service provider enabling its user community?
 
-> -- John Geraci, DIYCity.org (2010)
+> -- Tim O’Reilly, [Open Government](http://chimera.labs.oreilly.com/books/1234000000774/ch02.html) (2010)

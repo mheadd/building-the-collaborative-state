@@ -9,7 +9,7 @@
 * [Built to fail](built-to-fail.md)
 * [Bizzaro budgeting and public sector innovation](bizzaro-budgeting-and-public-sector-innovation.md)
 * [What if We’re Doing it Wrong?](what-if-were-doing-it-wrong.md)
-* [Hacking the RFI Process](#)
+* [Hacking the RFI Process](hacking-the-rfi-process.md)
 * [Bridging the CitiStat Gap](#)
 * [Enabling the Enterprise](#)
 * [Rethinking Residency Requirements](#)

@@ -10,7 +10,7 @@
 * [Open data beyond the big city](#)
 * [Altitude training for data](#)
 * [Building a government data culture](#) 
-* [Ddata is law](#) 
+* [Data is law](#) 
 * [The promise and pitfalls of government APIs](#) 
 * [Turning governments into data stewards](#)
 * [The hacker ethos and better cities](#)

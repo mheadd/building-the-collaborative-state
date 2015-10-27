@@ -12,4 +12,4 @@
 * [Hacking the RFI Process](hacking-the-rfi-process.md)
 * [Bridging the CitiStat Gap](bridging-the-citystat-gap.md)
 * [Enabling the Enterprise](enabling-the-enterprise.md)
-* [Rethinking Residency Requirements](#)
+* [Rethinking Residency Requirements](rethinking-residency-requirements.md)

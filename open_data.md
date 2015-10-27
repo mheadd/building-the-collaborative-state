@@ -17,5 +17,5 @@
 * [The problem with public data](#) 
 * [Internal benefits of external data](#) 
 * [The lesson of PennApps](#)
-* [Open data beyond the portal](#) 
+* [Open data: beyond the portal](#) 
 * [Three reasons to care about open data](#)

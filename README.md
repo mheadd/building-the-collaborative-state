@@ -24,7 +24,7 @@ The large number of sub-national governments in our country is generally [viewed
 
 Municipal codes have been described as [the operating system](http://www.codeforamerica.org/blog/2014/07/17/introducing-zoningcheck/) of local governments. In the world of technology, complexity and risk is often a function of a lack of uniformity. Different operating systems, different browser versions, a different set of installed dependencies - these are all important considerations when developing and implementing a new technology solution. Accounting for these differences in software increases risk, complexity and cost.
 
-Differences in how common functions are carried out by various state and local governments [can make sharing technology solutions more difficult](http://www.informationweek.com/states-seek-common-ground-on-open-source/d/d-id/1023933?). Commercial software that is engineered to be used by multiple governments is inherently more complex and costly because it must accommodate different business process for carrying out the same function.
+Differences in how common functions are carried out by various state and local governments [can make sharing technology solutions more difficult](http://www.informationweek.com/states-seek-common-ground-on-open-source/d/d-id/1023933?). Commercial software that is engineered to be used by multiple governments is typically more complex and costly because it must accommodate different business process for carrying out the same function. This is sometimes referred to as "designing high" - building a solution that covers every possible user's needs but not doing it particularly well.
 
 ## Government moves slowly
 

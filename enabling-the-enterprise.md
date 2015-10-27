@@ -55,3 +55,6 @@ This tends to result in the pre-emptive building of big platforms (those for whi
 An Enterprise Architecture that supports smart investment in technology is critical for governments to reap all of the benefits of service redesign, open data and civic innovation . But the reason that most governments rely on overly prescriptive EA plans and large upfront investment in (ostensibly) reusable components is because state and local government procurement and budgeting processes favor them.
 
 If we’re going to craft EA plans to support innovation, we have to find ways to [reengineer these fundamental processes of government first](built-to-fail).
+
+### Originally published:
+March 16, 2015

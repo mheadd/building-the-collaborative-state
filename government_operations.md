@@ -6,10 +6,12 @@
 
 ### Contents
 
-* [Built to fail](built-to-fail.md)
-* [Bizzaro budgeting and public sector innovation](bizzaro-budgeting-and-public-sector-innovation.md)
-* [What if We’re Doing it Wrong?](what-if-were-doing-it-wrong.md)
-* [Hacking the RFI Process](hacking-the-rfi-process.md)
-* [Bridging the CitiStat Gap](bridging-the-citystat-gap.md)
-* [Enabling the Enterprise](enabling-the-enterprise.md)
-* [Rethinking Residency Requirements](rethinking-residency-requirements.md)
+| Chapter  | Title  |
+|---|---|
+| 1 | [Built to fail](built-to-fail.md) |
+| 2 | [Bizzaro budgeting and public sector innovation](bizzaro-budgeting-and-public-sector-innovation.md) |
+| 3 | [What if We’re Doing it Wrong?](what-if-were-doing-it-wrong.md) |
+| 4 | [Hacking the RFI Process](hacking-the-rfi-process.md) |
+| 5 | [Bridging the CitiStat Gap](bridging-the-citystat-gap.md) |
+| 6 | [Enabling the Enterprise](enabling-the-enterprise.md) |
+| 7 | [Rethinking Residency Requirements](rethinking-residency-requirements.md) |

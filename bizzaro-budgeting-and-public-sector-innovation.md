@@ -42,5 +42,4 @@ In addition, if we can create new incentives within the public budgeting process
 Are there programs like this being tried in city or state governments somewhere? I’d love to hear about them if there are.
 
 ### Originally published:
-
 May 25, 2012 

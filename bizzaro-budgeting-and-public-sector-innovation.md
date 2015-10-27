@@ -2,8 +2,6 @@ Why is it so hard for governments to adopt innovative new technologies?
 
 Why does the public sector lag so far behind the private sector in leveraging new technology to create efficiencies?
 
-
-
 As an organization that works at the intersection of government and technology, these are questions we hear a lot at Code for America. Through our various program offerings, we are working to address the popular sentiments – and the underlying issues – that cause these questions to be asked so frequently.
 
 Many observers point to the government procurement process as the chief impediment to adopting new technologies in government. I’ve made this same observation myself, and public sector procurement is an area ripe for reform and new thinking.
@@ -15,7 +13,7 @@ I’ve worked in two different state governments, in both the legislative and ex
 
 Th typical public budget process begins with agencies submitting requests for funding to support their operations in the next fiscal year. Most commonly, agencies begin these discussions – first with executive branch budget officials, then later on with their legislative counterparts – from the basis of their current level of funding.
 
-This “incrementalist” approach to public budgeting is common – the next year’s budget request is built on the allocation to that agency for the current year, with requests for new funding added on to the existing base.
+This *incrementalist* approach to public budgeting is common – the next year’s budget request is built on the allocation to that agency for the current year, with requests for new funding added on to the existing base.
 
 In my experience working in government, I have found the personnel working at the operating agencies and departments to be passionate, deeply committed advocates for their agency’s clientele. These individuals are understandably more interested in the people their agency serves, and understandably less interested in the relative priority of spending items between different agencies and departments.
 
@@ -29,7 +27,7 @@ Agencies see this as a diminution of their mission and a loss for the clientele 
 
 Think of the incentives the budget process described here provides for agencies to try new things, to go before executive branch personnel or legislators and trumpet a success in implementing a new technology. Agencies that demonstrate a cost savings are not rewarded, they are “punished” with a reduction to their funding allocation for the next year.
 
-In the bizzaro world that is public budgeting, it is the agencies that are relatively less efficient that get “rewarded” with increased budget allocations year over year.
+In the bizzaro world that is public budgeting, it is the agencies that are relatively less efficient that get *rewarded* with increased budget allocations year over year.
 
 Whether or not we agree with the incrementalist approach to public budgeting, or the portrayal of the self interested agency official being punished for efficiency, it seems clear that the process by which governments allocate resources for technology does not encourage innovation.
 

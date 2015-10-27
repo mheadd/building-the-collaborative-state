@@ -2,9 +2,9 @@ Why is it so hard for governments to adopt innovative new technologies?
 
 Why does the public sector lag so far behind the private sector in leveraging new technology to create efficiencies?
 
-As an organization that works at the intersection of government and technology, these are questions we hear a lot at Code for America. Through our various program offerings, we are working to address the popular sentiments – and the underlying issues – that cause these questions to be asked so frequently.
+As an organization that works at the intersection of government and technology, these are questions we hear a lot at Code for America. Through our [various program offerings](http://www.codeforamerica.org/about/), we are working to address the popular sentiments – and the underlying issues – that cause these questions to be asked so frequently.
 
-Many observers point to the government procurement process as the chief impediment to adopting new technologies in government. I’ve made this same observation myself, and public sector procurement is an area ripe for reform and new thinking.
+Many observers point to the government procurement process as the chief impediment to adopting new technologies in government. I’ve [made this same observation myself](http://civic.io/2012/01/23/will-lack-of-procurement-reform-smother-civic-startups/), and public sector procurement is an area ripe for reform and new thinking.
 
 But looking more globally at the incentives that drive how governments apply resources to acquire technology we can see another area where reform is badly needed to encourage innovation – the public budgeting process.
 

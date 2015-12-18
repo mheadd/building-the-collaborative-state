@@ -2,13 +2,15 @@
 
 > The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite ... The powers reserved to the several States will extend to all the objects which, in the ordinary course of affairs, concern the lives, liberties, and properties of the people, and the internal order, improvement, and prosperity of the State.
 
-> --  James Madison, The Federalist Papers - [Federalist No. 45](http://thomas.loc.gov/home/histdox/fed_45.html)
+> --  James Madison - [Federalist No. 45](http://thomas.loc.gov/home/histdox/fed_45.html)
 
-This is a book about government and how we use new technologies and data to support the core functions of government. It contains a series of essays written originally as blog posts starting in early 2012 until the Fall of 2015.
+This is a book about government and how we use new technologies and data to support the core functions of government. 
 
-Questions about how government can most effectively and most efficiently use technology are not new, but they have become increasingly important since the early 1990's with the advent of the World Wide Web and the ensuing explosion in networked devices and new innovations.
+It contains a series of essays written originally as blog posts starting in early 2012 until the Fall of 2015. My time in government was spent in state and local government (two states and one city), so the ideas I articulate in this book are heavily informed by that experience.
 
-I began my very first job in government in 1993, the same year that the Mosaic web browser was released to the public. My experience working in 3 different state and local governments over the last 20 years has closely tracked some important developments in the world of government technology - the introduction of the web and Internet technologies in government; the rise of e-Government and the creation of centralized government web portals, the adoption of open data and the growth in government app contests and civic hacking.
+Questions about how government can most effectively and efficiently use technology are not new, but they have become increasingly important since the early 1990's with the advent of the World Wide Web and the ensuing explosion in networked devices and new innovations.
+
+I began my very first job in government in 1993, the same year that the Mosaic web browser was released to the public. My experience working in 3 different state and local governments over the last 20 or so years has closely tracked some important developments in the world of government technology - the introduction of the web and Internet technologies in government; the rise of e-Government and the creation of centralized government web portals, the adoption of open data and the growth in government app contests and civic hacking.
 
 Over all that time, governments have cemented a reputation as generally being inept when it comes to adopting new technologies and using them effectively. This ineptitude is taken as an article of faith in the world of civic technology and among those who would reform the ways that the public sector acquires and uses technology.
 
@@ -35,18 +37,6 @@ Even beyond this foundational  aspect of our democracy, the mechanics of governm
 A healthy democracy places an emphasis on values like transparency ad inclusiveness, but putting these values into practice often means that the decision making process moves more slowly and consensus is harder to achieve. 
 
 The pace of change in the world of technology has shrunk from years to months to weeks. In the digital age, things that are viewed as virtues in a democracy may work against the efficient adoption of technology by governments.
-
-## An historical perspective
-
-The unifying characteristic of these factors is that they are intentional - the seeds of government's slow pace of action and complex structure were planted by our nation's founders. It's also worth noting that outside the context of technology adoption these characteristics of our democracy are generally viewed as virtuous and beneficial.
-
-For most of our history as a democracy, these factors did not present the outsized challenge they do today. In a world where change occurs rapidly and disruption is not uncommon, however, these factors can become an impediment. 
-
-Thinks of it this way - as we continue to expand our understanding of the dangers of consuming certain kinds of foods, we come to better appreciate some of the implications of increased life expectancy. [Eating red meat probably causes cancer](http://www.bbc.com/news/health-34615621), but people have been eating red meat for a very long time - the focus on the consequences of doing so seems like only a very recent development. 
-
-It's not that the risks of consuming red meat have materialized just in recent times, but that people are living dramatically longer than they were previously. In 1900, the average life expectancy of a female living in the United State was about 48 years; by 2010 this average had increased to [over 80 years](http://www.cdc.gov/nchs/data/nvsr/nvsr63/nvsr63_07.pdf). Its not that eating red meat 100 years ago (or earlier) was any less harmful for us, but that the consequence for doing so becomes apparent when the damage accumulates over a longer lifespan.
-
-Eating red meat has always been bad for us - it just matters more in a time when people live into their 80's. Governments have always been labyrinthic and slow - it just matters more in a world where the technology they need to provides services changes rapidly.
 
 ## There is another way
 

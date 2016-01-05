@@ -2,7 +2,7 @@
 
 | Book section  | Title  |
 |---|---|
-| Introduction | [The Need for a Collaborative State](README.md) |
+| Introduction | [Finding Another Way](README.md) |
 | Section 1  | [Government Operations](government_operations.md)  |
 | Section 2  | [Procurement Reform](procurement_reform.md)  | 
 | Section 3  | [Open Data](open_data.md)  |

@@ -8,7 +8,7 @@
 
 | Chapter  | Title  |
 |---|---|
-| Chapter 1 | [GovTech is not broken](#) |
+| Chapter 1 | [GovTech is not broken](govtech-is-not-broken.md) |
 | Chapter 2 | [The case for making procurement harder](#) |
 | Chapter 3 | [Three hard truths for government procurement reform](#) |
 | Chapter 4 | [Experiments in Github-based procurement](#) |

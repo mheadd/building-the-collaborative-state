@@ -121,4 +121,4 @@ We can’t underestimate the importance of the official sanction and support tha
 It’s time for us to see civic hacking as an essential component of the Collaborative State and recognize its place in the proud tradition of volunteerism that has helped to strengthen this country.
 
 ### Originally published: 
-Nove,ber 6, 2014
+November 6, 2014

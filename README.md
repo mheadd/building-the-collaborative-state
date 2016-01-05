@@ -1,4 +1,4 @@
-# The Need for a Collaborative State
+# Finding Another Way
 
 > The powers delegated by the proposed Constitution to the federal government are few and defined. Those which are to remain in the State governments are numerous and indefinite ... The powers reserved to the several States will extend to all the objects which, in the ordinary course of affairs, concern the lives, liberties, and properties of the people, and the internal order, improvement, and prosperity of the State.
 

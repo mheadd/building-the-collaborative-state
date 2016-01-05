@@ -8,16 +8,16 @@
 
 | Chapter  | Title  |
 |---|---|
-| Chapter 1 | [Why publish open data](#) |
-| Chapter 2 | [Open data beyond the big city](#) |
-| Chapter 3 | [Altitude training for data](#) |
-| Chapter 4 | [Building a government data culture](#) |
-| Chapter 5 | [Data is law](#) |
-| Chapter 6 | [The promise and pitfalls of government APIs](#) |
-| Chapter 7 | [Turning governments into data stewards](#) |
-| Chapter 8 | [The hacker ethos and better cities](#) |
-| Chapter 9 | [The problem with public data](#) |
-| Chapter 10 | [Internal benefits of external data](#) |
-| Chapter 11 | [The lesson of PennApps](#) |
-| Chapter 12 | [Open data: Beyond the portal](#) |
-| Chapter 13 | [Three reasons to care about open data](#) |
+| 1 | [Why publish open data](#) |
+| 2 | [Open data beyond the big city](#) |
+| 3 | [Altitude training for data](#) |
+| 4 | [Building a government data culture](#) |
+| 5 | [Data is law](#) |
+| 6 | [The promise and pitfalls of government APIs](#) |
+| 7 | [Turning governments into data stewards](#) |
+| 8 | [The hacker ethos and better cities](#) |
+| 9 | [The problem with public data](#) |
+| 10 | [Internal benefits of external data](#) |
+| 11 | [The lesson of PennApps](#) |
+| 12 | [Open data: Beyond the portal](#) |
+| 13 | [Three reasons to care about open data](#) |

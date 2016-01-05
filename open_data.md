@@ -6,7 +6,7 @@
 
 ### Contents
 
-| Book section  | Title  |
+| Chapter  | Title  |
 |---|---|
 | Chapter 1 | [Why publish open data](#) |
 | Chapter 2 | [Open data beyond the big city](#) |

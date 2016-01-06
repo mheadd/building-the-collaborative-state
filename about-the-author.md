@@ -1,6 +1,8 @@
 # About the Author
 
-Mark is the former Chief Data Officer for the City of Philadelphia, serving as one of the first municipal Chief Data Officers in the United States. He currently works with government officials, entrepreneurs, civic technologists and open data advocates as a Developer Evangelist for Accela. 
+![](headshot.jpg)
+
+Mark is the former Chief Data Officer for the City of Philadelphia, serving as one of the first municipal Chief Data Officers in the United States. 
 
 Mark has over a dozen years of combined experience working for state and local governments in the U.S, including one of the largest states in the nation and one of the largest cities. His work experience spans both the executive and legislative branches of government - he has worked as a policy adviser, a budget and tax analyst and as a government technology executive.
 

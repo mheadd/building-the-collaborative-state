@@ -1,6 +1,6 @@
 /* CSS for website */
 img {
-    float: right;
+    float: left;
     padding: 5px;
-    margin-left: 10x;
+    margin-right: 10x;
 }

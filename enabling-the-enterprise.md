@@ -1,3 +1,5 @@
+# Enabling the Enterprise
+
 Its not often that I run across posts about enterprise architecture that get me excited. [This one](https://medium.com/@postenterprise/the-abuse-of-reuse-96b2e0af01a7#.60vib6z9f) – by Tariq Rashid – did. Very much so.
 
 This issue interests me because its one that, as a former state IT executive and policy advisor, I have personal history with. I also believe its an issue that will have great impact on how successful governments are at redesigning services around users, and embracing civic technology and open data.

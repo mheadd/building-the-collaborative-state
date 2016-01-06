@@ -1,3 +1,5 @@
+#Hacking the RFI Process
+
 The Seattle Police Department recently held a hackathon.
 
 When the event was initially announced, there was a fair bit of skepticism in the civic technology community with more than a few people stating that the event would likely not be a productive one, for either the Seattle Police or those that chose to attend. I was one of those skeptics – I thought the event was too narrowly focused and that the problem that attendees would be working to help resolve wouldn’t appeal to a broad enough audience for it to work as the organizers probably hoped.

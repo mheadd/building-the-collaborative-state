@@ -1,3 +1,5 @@
+# Bridging the CitiStat Gap
+
 > For the PerformanceStat strategy to produce meaningful results, it needs a few analytical people working on it full-time to understand — through the use of data — what kind of results are really being produced.
 — Robert Behn, [The Seven Big Errors of PerformanceStat](http://www.hks.harvard.edu/thebehnreport/Behn,%207PerformanceStatErrors.pdf)
 

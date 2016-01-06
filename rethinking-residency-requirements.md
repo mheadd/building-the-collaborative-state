@@ -1,3 +1,5 @@
+# Rethinking Residency Requirements
+
 Residency requirements for municipal employees are a [contentious topic](http://chippewa.com/news/local/court-ruling-could-open-residency-requirements/article_aa70ab00-61f6-5d25-849f-ddf571dce2da.html) among local government officials, city employees, and taxpayers.
 
 The idea that city employees will be more invested in their jobs and perform at a higher level if they live in the cities for which they work underpins most of the logic behind municipal residency requirements. Critics of these policies say it limits the personal freedom of city employees and shrinks the pool of potential candidates for local government jobs.

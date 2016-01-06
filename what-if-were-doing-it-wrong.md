@@ -1,3 +1,5 @@
+#What if We’re Doing it Wrong?
+
 Ever since the botched launch of [Healthcare.gov](https://www.healthcare.gov/), procurement reform has become the rallying cry of the civic technology community.
 
 There is now [considerable effort being expended](http://citiscope.org/story/2014/how-barcelona-and-philadelphia-are-turning-procurement-upside-down) to reimagine the ways that governments obtain technology services from private sector vendors, with an emphasis being placed on new methods that make it easier for governments to engage with firms that offer new ideas and better solutions at lower prices. I’ve worked on [some of these new approache](http://bigideasphl.com/)s myself.

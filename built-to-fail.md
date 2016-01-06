@@ -1,3 +1,5 @@
+#Built to fail
+
 The great truism that underlies the civic technology movement of the last several years is that governments face difficulty implementing technology, and they generally manage IT assets and projects very poorly.
 
 It can be tempting to view this lack of technology acumen as a symptom of a larger dysfunction. Governments are thought to be large, plodding bureaucracies that do lots of things poorly – technology management and implementation are but one of the many things that governments do not do well.
